@@ -1,7 +1,6 @@
 # Phase-1-Project-Data-Science
-Aviation Accident Analysis
-**#Overview**
-This project analyzes aviation accident data to recommend the best aircraft for your company to invest in. The analysis focuses on identifying low-risk aircraft to guide strategic business decisions in aviation.
+**##Aviation Accident Analysis**
+**#Overview**  This project analyzes aviation accident data to recommend the best aircraft for your company to invest in. The analysis focuses on identifying low-risk aircraft to guide strategic business decisions in aviation.
 **##Business Problem**
 The company plans to diversify into aviation but lacks knowledge about aircraft risks. The objective is to determine potential risks associated with different aircraft makes and provide three actionable investment recommendations to the head of the Aviation division.
 **#Data Understanding**
