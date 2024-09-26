@@ -36,11 +36,11 @@ Monitor Weather Impact: Consider weather-related risks when assessing aircraft.
 Boeing is recommended, but invest in a high-quality maintenance team
 Prioritize Commercial Aircraft:
 Smaller private aircraft are riskier than larger commercial options.
-##For Information
 
 **Visualization:**
 
 https://public.tableau.com/app/profile/boniface.thuo/viz/ProjectTableau_17273446666590/Dashboard1
 Project Notebook: https://colab.research.google.com/drive/1W5y1KgdBsvpOhbk5GYda5u7-HGjLg9wU?usp=sharing
-For additional info, contact bonithuo@gmail.com
+For additional info contact: bonithuo@gmail.com
+LinkedIn Profile: https://www.linkedin.com/in/boniface-thuo-52ab3816a/
 
